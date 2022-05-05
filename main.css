@@ -1,0 +1,9 @@
+.button {
+    width: 100px;
+    height: 20px;
+    background-color: rgb(80, 80, 243);
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 10px;
+    text-align: center;
+}
