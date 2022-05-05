@@ -7,3 +7,15 @@
     border-radius: 10px;
     text-align: center;
 }
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+input {
+    border: 2px dotted rgb(180, 3, 3);
+}
